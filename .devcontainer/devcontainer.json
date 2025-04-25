@@ -1,5 +1,5 @@
 {
-  "name": "My Local Plugin DevContainer",
+  "name": "Devcontainer Developer Workspace",
   "build": {
     "dockerfile": "./Dockerfile"
   },
