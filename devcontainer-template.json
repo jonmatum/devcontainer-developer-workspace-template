@@ -1,0 +1,13 @@
+{
+  "name": "Developer Workspace Template",
+  "description": "A full-featured Dev Container for infrastructure, cloud, and full-stack development with Python, Node.js, Terraform, OpenTofu, and more.",
+  "icon": "terminal",
+  "categories": [
+    "Infrastructure",
+    "Cloud",
+    "DevOps",
+    "Python",
+    "Node",
+    "CLI"
+  ]
+}
